@@ -6,7 +6,7 @@ Note: This may not work on Windows machines without adjusting the wrappers code.
 ## Exports
 ```py
 # adb - class
-adb.server_running() -> bool: pass # ...
+adb.server_running() -> bool
 adb.start_server() -> None
 adb.kill_server() -> None
 adb.devices() -> dict
