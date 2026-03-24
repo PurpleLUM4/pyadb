@@ -1,7 +1,7 @@
 # Python Android Debug Bridge Wrapper
 
-Simple Android debug bridge wrapper for Python designed for Linux.
-Note: This may not work on Windows machines without adjusting the wrappers code.
+Simple Android debug bridge wrapper for Python designed for Linux.<br>
+**Note:** This may not work on Windows machines without adjusting the wrappers code.<br>
 
 ## Exports
 ```py
