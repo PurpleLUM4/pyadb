@@ -2,6 +2,7 @@
 
 Simple Android debug bridge wrapper for Python designed for Linux.<br>
 **Note:** This may not work on Windows machines without adjusting the wrappers code.<br>
+**Note:** Do not forget to have the adb binary in your $PATH environment variable.<br>
 
 ## Exports
 ```py
